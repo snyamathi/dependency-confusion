@@ -1,0 +1,9 @@
+{
+  "name": "dependency-confusion",
+  "version": "1.0.0",
+  "description": "Proof of concept for a dependency confusion supply chain attack.",
+  "license": "MIT",
+  "bin": {
+    "dependency-confusion": "./index.js"
+  }
+}
